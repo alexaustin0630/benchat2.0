@@ -17,7 +17,7 @@ BenChat is a sleek and powerful web chat application designed to elevate your co
 
 Follow these simple steps to get started with BenChat:
 
-1. Clone the repository: `git clone https://github.com/your-username/benchat.git`
+1. Clone the repository: `git clone https://github.com/alexaustin0630/benchat2.0`
 2. Navigate to the project directory: `cd benchat`
 3. Install dependencies: `npm install`
 4. Start the application: `npm start`
